@@ -17,14 +17,14 @@ Libraries Used:
 3. Then we need to add the target (price) column to the DataFrame
 
 # No Of Rows and Columns
-   checking the number of rows and Columns in the data frame using 'shape'
+   Checking the number of rows and Columns in the data frame using 'shape'
 
 # Missing values
-   checking for missing values using 'isnull'
+   Checking for missing values using 'isnull'
 
 # Correlation
-1.  checking the statistical measures of the dataset using 'describe' for the correlation
-2.  constructing a heatmap to understand the correlation using seaborn library
+1.  Checking the statistical measures of the dataset using 'describe' for the correlation
+2.  Constructing a heatmap to understand the correlation using seaborn library
 
 # Splitting the data and Target
 1. X = Indepedent 
@@ -64,7 +64,7 @@ Libraries Used:
     
 ## For evaluation metrics we use R squared error and Mean Absolute Error
  
-   here the model performs well both are having values near to zero
+    Here the model performs well both are having values near to zero
  
 
 
